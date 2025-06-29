@@ -51,6 +51,7 @@ python app.py
 系统将在本地启动 Gradio 界面（默认地址：http://127.0.0.1:7860）。
 
 4. 💬 聊天记录示例
+![Uploading c658b7f9a0dabd8da2ef2cadaff98dd.png…]()
 
 👤 用户：今天天气如何？
 🤖 Agent：今天的天气是多云转小雨，气温大约在27°C左右。记得出门带伞哦！
